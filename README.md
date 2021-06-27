@@ -24,7 +24,7 @@ O projeto [**Letmeask**](https://letmeask-fe3b5.web.app/) é uma ferramenta para
 
 ## ✔ Como testar
 
-Você precisa ter o as seguintes ferramentas instaladas:
+Você precisa ter as seguintes ferramentas instaladas:
 
 - [**Nodejs**](https://nodejs.org/en/)
 - [**Yarn**](https://yarnpkg.com/)
